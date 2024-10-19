@@ -1,0 +1,7 @@
+automation/TestRunner.class
+automation/PageObject/LoginPage.class
+automation/TestData/TestData.class
+automation/stepdefinitions/Base.class
+automation/Utils/DriverManager.class
+automation/stepdefinitions/LoginStepDefinitions.class
+automation/stepdefinitions/AddToCartStepDefinition.class
