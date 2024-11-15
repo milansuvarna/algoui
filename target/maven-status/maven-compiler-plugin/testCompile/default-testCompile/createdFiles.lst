@@ -1,9 +1,9 @@
 automation/TestRunner.class
-automation/PageObject/LoginPage.class
-automation/stepdefinitions/checkoutStepDefinition.class
 automation/TestData/TestData.class
+automation/PageObject/PageObj.class
 automation/stepdefinitions/Base.class
 automation/Utils/DriverManager.class
+automation/stepdefinitions/FundamentalStockStepDefinition.class
 automation/Utils/WaitUtils.class
+automation/stepdefinitions/SaveAlgorithmStepDefinition.class
 automation/stepdefinitions/LoginStepDefinitions.class
-automation/stepdefinitions/AddToCartStepDefinition.class

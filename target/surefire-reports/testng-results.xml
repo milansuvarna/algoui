@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-11-15T16:38:06 IST" name="Surefire suite" finished-at="2024-11-15T16:38:13 IST" duration-ms="7490">
+  <suite started-at="2024-11-15T23:00:26 IST" name="Surefire suite" finished-at="2024-11-15T23:00:54 IST" duration-ms="28657">
     <groups>
       <group name="cucumber">
         <method signature="AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:automation.TestRunner@5c909414]" name="runScenario" class="io.cucumber.testng.AbstractTestNGCucumberTests"/>
       </group> <!-- cucumber -->
     </groups>
-    <test started-at="2024-11-15T16:38:06 IST" name="Surefire test" finished-at="2024-11-15T16:38:13 IST" duration-ms="7490">
+    <test started-at="2024-11-15T23:00:26 IST" name="Surefire test" finished-at="2024-11-15T23:00:54 IST" duration-ms="28657">
       <class name="automation.TestRunner">
-        <test-method is-config="true" signature="setUpClass(org.testng.ITestContext)[pri:0, instance:automation.TestRunner@5c909414]" started-at="2024-11-15T16:38:06 IST" name="setUpClass" finished-at="2024-11-15T16:38:06 IST" duration-ms="195" status="PASS">
+        <test-method is-config="true" signature="setUpClass(org.testng.ITestContext)[pri:0, instance:automation.TestRunner@5c909414]" started-at="2024-11-15T23:00:26 IST" name="setUpClass" finished-at="2024-11-15T23:00:26 IST" duration-ms="205" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[org.testng.TestRunner@c755b2]]>
+                <![CDATA[org.testng.TestRunner@bfec2f9]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUpClass -->
-        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:automation.TestRunner@5c909414]" started-at="2024-11-15T16:38:06 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2024-11-15T16:38:13 IST" duration-ms="7266" status="PASS">
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:automation.TestRunner@5c909414]" started-at="2024-11-15T23:00:26 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2024-11-15T23:00:32 IST" duration-ms="6018" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -37,7 +37,39 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- runScenario -->
-        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:automation.TestRunner@5c909414]" started-at="2024-11-15T16:38:13 IST" name="tearDownClass" finished-at="2024-11-15T16:38:13 IST" duration-ms="18" status="PASS">
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:automation.TestRunner@5c909414]" started-at="2024-11-15T23:00:32 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2024-11-15T23:00:43 IST" duration-ms="11385" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Verify fundamental stocks details are shown"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Check Fundamental stocks"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:automation.TestRunner@5c909414]" started-at="2024-11-15T23:00:43 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2024-11-15T23:00:54 IST" duration-ms="11020" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["verify simulation is saved in in saved algorithm"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Saved algorithm page"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:automation.TestRunner@5c909414]" started-at="2024-11-15T23:00:54 IST" name="tearDownClass" finished-at="2024-11-15T23:00:54 IST" duration-ms="14" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDownClass -->

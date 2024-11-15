@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="TestSuite" time="12.654" tests="1" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="TestSuite" time="33.858" tests="3" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.specification.version" value="23"/>
     <property name="sun.jnu.encoding" value="UTF-8"/>
@@ -13,7 +13,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="IN"/>
     <property name="sun.boot.library.path" value="/Library/Java/JavaVirtualMachines/jdk-23.jdk/Contents/Home/lib"/>
-    <property name="sun.java.command" value="/Users/milansuvarna/Desktop/SeleniumFrameWork/demo/target/surefire/surefirebooter3529912278704700604.jar /Users/milansuvarna/Desktop/SeleniumFrameWork/demo/target/surefire 2024-11-15T16-38-06_066-jvmRun1 surefire8129990685669946996tmp surefire_011709864986805354056tmp"/>
+    <property name="sun.java.command" value="/Users/milansuvarna/Desktop/SeleniumFrameWork/demo/target/surefire/surefirebooter8488309136290806540.jar /Users/milansuvarna/Desktop/SeleniumFrameWork/demo/target/surefire 2024-11-15T23-00-25_768-jvmRun1 surefire4510262965103711057tmp surefire_014801514866246120148tmp"/>
     <property name="http.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="/Users/milansuvarna/Desktop/SeleniumFrameWork/demo/target/test-classes:/Users/milansuvarna/Desktop/SeleniumFrameWork/demo/target/classes:/Users/milansuvarna/.m2/repository/org/seleniumhq/selenium/selenium-java/4.5.0/selenium-java-4.5.0.jar:/Users/milansuvarna/.m2/repository/org/seleniumhq/selenium/selenium-api/4.5.0/selenium-api-4.5.0.jar:/Users/milansuvarna/.m2/repository/org/seleniumhq/selenium/selenium-chrome-driver/4.5.0/selenium-chrome-driver-4.5.0.jar:/Users/milansuvarna/.m2/repository/com/google/auto/service/auto-service-annotations/1.0.1/auto-service-annotations-1.0.1.jar:/Users/milansuvarna/.m2/repository/com/google/auto/service/auto-service/1.0.1/auto-service-1.0.1.jar:/Users/milansuvarna/.m2/repository/com/google/auto/auto-common/1.2/auto-common-1.2.jar:/Users/milansuvarna/.m2/repository/com/google/guava/guava/31.1-jre/guava-31.1-jre.jar:/Users/milansuvarna/.m2/repository/com/google/guava/failureaccess/1.0.1/failureaccess-1.0.1.jar:/Users/milansuvarna/.m2/repository/com/google/guava/listenablefuture/9999.0-empty-to-avoid-conflict-with-guava/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar:/Users/milansuvarna/.m2/repository/com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2.jar:/Users/milansuvarna/.m2/repository/org/checkerframework/checker-qual/3.12.0/checker-qual-3.12.0.jar:/Users/milansuvarna/.m2/repository/com/google/errorprone/error_prone_annotations/2.11.0/error_prone_annotations-2.11.0.jar:/Users/milansuvarna/.m2/repository/com/google/j2objc/j2objc-annotations/1.3/j2objc-annotations-1.3.jar:/Users/milansuvarna/.m2/repository/org/seleniumhq/selenium/selenium-chromium-driver/4.5.0/selenium-chromium-driver-4.5.0.jar:/Users/milansuvarna/.m2/repository/org/seleniumhq/selenium/selenium-json/4.5.0/selenium-json-4.5.0.jar:/Users/milansuvarna/.m2/repository/org/seleniumhq/selenium/selenium-devtools-v104/4.5.0/selenium-devtools-v104-4.5.0.jar:/Users/milansuvarna/.m2/repository/org/seleniumhq/selenium/selenium-devtools-v105/4.5.0/selenium-devtools-v105-4.5.0.jar:/Users/milansuvarna/.m2/repository/org/seleniumhq/selenium/selenium-devtools-v106/4.5.0/selenium-devtools-v106-4.5.0.jar:/Users/milansuvarna/.m2/repository/org/seleniumhq/selenium/selenium-devtools-v85/4.5.0/selenium-devtools-v85-4.5.0.jar:/Users/milansuvarna/.m2/repository/org/seleniumhq/selenium/selenium-edge-driver/4.5.0/selenium-edge-driver-4.5.0.jar:/Users/milansuvarna/.m2/repository/org/seleniumhq/selenium/selenium-firefox-driver/4.5.0/selenium-firefox-driver-4.5.0.jar:/Users/milansuvarna/.m2/repository/org/seleniumhq/selenium/selenium-ie-driver/4.5.0/selenium-ie-driver-4.5.0.jar:/Users/milansuvarna/.m2/repository/org/seleniumhq/selenium/selenium-remote-driver/4.5.0/selenium-remote-driver-4.5.0.jar:/Users/milansuvarna/.m2/repository/io/netty/netty-buffer/4.1.79.Final/netty-buffer-4.1.79.Final.jar:/Users/milansuvarna/.m2/repository/io/netty/netty-codec-http/4.1.79.Final/netty-codec-http-4.1.79.Final.jar:/Users/milansuvarna/.m2/repository/io/netty/netty-codec/4.1.79.Final/netty-codec-4.1.79.Final.jar:/Users/milansuvarna/.m2/repository/io/netty/netty-handler/4.1.79.Final/netty-handler-4.1.79.Final.jar:/Users/milansuvarna/.m2/repository/io/netty/netty-common/4.1.79.Final/netty-common-4.1.79.Final.jar:/Users/milansuvarna/.m2/repository/io/netty/netty-transport-classes-epoll/4.1.79.Final/netty-transport-classes-epoll-4.1.79.Final.jar:/Users/milansuvarna/.m2/repository/io/netty/netty-transport-classes-kqueue/4.1.79.Final/netty-transport-classes-kqueue-4.1.79.Final.jar:/Users/milansuvarna/.m2/repository/io/netty/netty-transport-native-epoll/4.1.79.Final/netty-transport-native-epoll-4.1.79.Final.jar:/Users/milansuvarna/.m2/repository/io/netty/netty-transport-native-kqueue/4.1.79.Final/netty-transport-native-kqueue-4.1.79.Final.jar:/Users/milansuvarna/.m2/repository/io/netty/netty-transport-native-unix-common/4.1.79.Final/netty-transport-native-unix-common-4.1.79.Final.jar:/Users/milansuvarna/.m2/repository/io/netty/netty-transport/4.1.79.Final/netty-transport-4.1.79.Final.jar:/Users/milansuvarna/.m2/repository/io/netty/netty-resolver/4.1.79.Final/netty-resolver-4.1.79.Final.jar:/Users/milansuvarna/.m2/repository/io/opentelemetry/opentelemetry-api/1.17.0/opentelemetry-api-1.17.0.jar:/Users/milansuvarna/.m2/repository/io/opentelemetry/opentelemetry-context/1.17.0/opentelemetry-context-1.17.0.jar:/Users/milansuvarna/.m2/repository/io/opentelemetry/opentelemetry-exporter-logging/1.17.0/opentelemetry-exporter-logging-1.17.0.jar:/Users/milansuvarna/.m2/repository/io/opentelemetry/opentelemetry-sdk-metrics/1.17.0/opentelemetry-sdk-metrics-1.17.0.jar:/Users/milansuvarna/.m2/repository/io/opentelemetry/opentelemetry-sdk-logs/1.17.0-alpha/opentelemetry-sdk-logs-1.17.0-alpha.jar:/Users/milansuvarna/.m2/repository/io/opentelemetry/opentelemetry-sdk-common/1.17.0/opentelemetry-sdk-common-1.17.0.jar:/Users/milansuvarna/.m2/repository/io/opentelemetry/opentelemetry-sdk-extension-autoconfigure-spi/1.17.0/opentelemetry-sdk-extension-autoconfigure-spi-1.17.0.jar:/Users/milansuvarna/.m2/repository/io/opentelemetry/opentelemetry-sdk-extension-autoconfigure/1.17.0-alpha/opentelemetry-sdk-extension-autoconfigure-1.17.0-alpha.jar:/Users/milansuvarna/.m2/repository/io/opentelemetry/opentelemetry-exporter-common/1.17.0/opentelemetry-exporter-common-1.17.0.jar:/Users/milansuvarna/.m2/repository/io/opentelemetry/opentelemetry-sdk-trace/1.17.0/opentelemetry-sdk-trace-1.17.0.jar:/Users/milansuvarna/.m2/repository/io/opentelemetry/opentelemetry-sdk/1.17.0/opentelemetry-sdk-1.17.0.jar:/Users/milansuvarna/.m2/repository/io/opentelemetry/opentelemetry-semconv/1.17.0-alpha/opentelemetry-semconv-1.17.0-alpha.jar:/Users/milansuvarna/.m2/repository/io/ous/jtoml/2.0.0/jtoml-2.0.0.jar:/Users/milansuvarna/.m2/repository/net/bytebuddy/byte-buddy/1.12.14/byte-buddy-1.12.14.jar:/Users/milansuvarna/.m2/repository/org/apache/commons/commons-exec/1.3/commons-exec-1.3.jar:/Users/milansuvarna/.m2/repository/org/asynchttpclient/async-http-client/2.12.3/async-http-client-2.12.3.jar:/Users/milansuvarna/.m2/repository/org/asynchttpclient/async-http-client-netty-utils/2.12.3/async-http-client-netty-utils-2.12.3.jar:/Users/milansuvarna/.m2/repository/io/netty/netty-codec-socks/4.1.60.Final/netty-codec-socks-4.1.60.Final.jar:/Users/milansuvarna/.m2/repository/io/netty/netty-handler-proxy/4.1.60.Final/netty-handler-proxy-4.1.60.Final.jar:/Users/milansuvarna/.m2/repository/io/netty/netty-transport-native-epoll/4.1.60.Final/netty-transport-native-epoll-4.1.60.Final-linux-x86_64.jar:/Users/milansuvarna/.m2/repository/io/netty/netty-transport-native-kqueue/4.1.60.Final/netty-transport-native-kqueue-4.1.60.Final-osx-x86_64.jar:/Users/milansuvarna/.m2/repository/org/reactivestreams/reactive-streams/1.0.3/reactive-streams-1.0.3.jar:/Users/milansuvarna/.m2/repository/com/typesafe/netty/netty-reactive-streams/2.0.4/netty-reactive-streams-2.0.4.jar:/Users/milansuvarna/.m2/repository/com/sun/activation/jakarta.activation/1.2.2/jakarta.activation-1.2.2.jar:/Users/milansuvarna/.m2/repository/org/seleniumhq/selenium/selenium-http/4.5.0/selenium-http-4.5.0.jar:/Users/milansuvarna/.m2/repository/dev/failsafe/failsafe/3.2.4/failsafe-3.2.4.jar:/Users/milansuvarna/.m2/repository/org/seleniumhq/selenium/selenium-safari-driver/4.5.0/selenium-safari-driver-4.5.0.jar:/Users/milansuvarna/.m2/repository/org/seleniumhq/selenium/selenium-support/4.5.0/selenium-support-4.5.0.jar:/Users/milansuvarna/.m2/repository/io/github/bonigarcia/webdrivermanager/5.5.1/webdrivermanager-5.5.1.jar:/Users/milansuvarna/.m2/repository/org/slf4j/slf4j-api/2.0.7/slf4j-api-2.0.7.jar:/Users/milansuvarna/.m2/repository/com/google/code/gson/gson/2.10.1/gson-2.10.1.jar:/Users/milansuvarna/.m2/repository/com/github/docker-java/docker-java/3.3.3/docker-java-3.3.3.jar:/Users/milansuvarna/.m2/repository/com/github/docker-java/docker-java-core/3.3.3/docker-java-core-3.3.3.jar:/Users/milansuvarna/.m2/repository/com/github/docker-java/docker-java-api/3.3.3/docker-java-api-3.3.3.jar:/Users/milansuvarna/.m2/repository/com/fasterxml/jackson/core/jackson-annotations/2.10.3/jackson-annotations-2.10.3.jar:/Users/milansuvarna/.m2/repository/commons-io/commons-io/2.6/commons-io-2.6.jar:/Users/milansuvarna/.m2/repository/org/apache/commons/commons-compress/1.21/commons-compress-1.21.jar:/Users/milansuvarna/.m2/repository/com/fasterxml/jackson/core/jackson-databind/2.10.3/jackson-databind-2.10.3.jar:/Users/milansuvarna/.m2/repository/com/fasterxml/jackson/core/jackson-core/2.10.3/jackson-core-2.10.3.jar:/Users/milansuvarna/.m2/repository/org/bouncycastle/bcpkix-jdk18on/1.75/bcpkix-jdk18on-1.75.jar:/Users/milansuvarna/.m2/repository/org/bouncycastle/bcprov-jdk18on/1.75/bcprov-jdk18on-1.75.jar:/Users/milansuvarna/.m2/repository/org/bouncycastle/bcutil-jdk18on/1.75/bcutil-jdk18on-1.75.jar:/Users/milansuvarna/.m2/repository/org/slf4j/jcl-over-slf4j/1.7.30/jcl-over-slf4j-1.7.30.jar:/Users/milansuvarna/.m2/repository/com/github/docker-java/docker-java-transport-httpclient5/3.3.3/docker-java-transport-httpclient5-3.3.3.jar:/Users/milansuvarna/.m2/repository/com/github/docker-java/docker-java-transport/3.3.3/docker-java-transport-3.3.3.jar:/Users/milansuvarna/.m2/repository/net/java/dev/jna/jna/5.12.1/jna-5.12.1.jar:/Users/milansuvarna/.m2/repository/org/brotli/dec/0.1.2/dec-0.1.2.jar:/Users/milansuvarna/.m2/repository/org/apache/commons/commons-lang3/3.13.0/commons-lang3-3.13.0.jar:/Users/milansuvarna/.m2/repository/org/apache/httpcomponents/client5/httpclient5/5.2.1/httpclient5-5.2.1.jar:/Users/milansuvarna/.m2/repository/org/apache/httpcomponents/core5/httpcore5/5.2/httpcore5-5.2.jar:/Users/milansuvarna/.m2/repository/org/apache/httpcomponents/core5/httpcore5-h2/5.2/httpcore5-h2-5.2.jar:/Users/milansuvarna/.m2/repository/io/cucumber/cucumber-java/7.12.0/cucumber-java-7.12.0.jar:/Users/milansuvarna/.m2/repository/io/cucumber/cucumber-core/7.12.0/cucumber-core-7.12.0.jar:/Users/milansuvarna/.m2/repository/io/cucumber/cucumber-gherkin/7.12.0/cucumber-gherkin-7.12.0.jar:/Users/milansuvarna/.m2/repository/io/cucumber/cucumber-gherkin-messages/7.12.0/cucumber-gherkin-messages-7.12.0.jar:/Users/milansuvarna/.m2/repository/io/cucumber/gherkin/26.2.0/gherkin-26.2.0.jar:/Users/milansuvarna/.m2/repository/io/cucumber/messages/22.0.0/messages-22.0.0.jar:/Users/milansuvarna/.m2/repository/io/cucumber/tag-expressions/5.0.1/tag-expressions-5.0.1.jar:/Users/milansuvarna/.m2/repository/io/cucumber/cucumber-expressions/16.1.2/cucumber-expressions-16.1.2.jar:/Users/milansuvarna/.m2/repository/io/cucumber/datatable/7.12.0/datatable-7.12.0.jar:/Users/milansuvarna/.m2/repository/io/cucumber/cucumber-plugin/7.12.0/cucumber-plugin-7.12.0.jar:/Users/milansuvarna/.m2/repository/io/cucumber/docstring/7.12.0/docstring-7.12.0.jar:/Users/milansuvarna/.m2/repository/io/cucumber/html-formatter/20.3.0/html-formatter-20.3.0.jar:/Users/milansuvarna/.m2/repository/io/cucumber/junit-xml-formatter/0.2.0/junit-xml-formatter-0.2.0.jar:/Users/milansuvarna/.m2/repository/io/cucumber/ci-environment/9.2.0/ci-environment-9.2.0.jar:/Users/milansuvarna/.m2/repository/org/apiguardian/apiguardian-api/1.1.2/apiguardian-api-1.1.2.jar:/Users/milansuvarna/.m2/repository/io/cucumber/cucumber-testng/7.12.0/cucumber-testng-7.12.0.jar:/Users/milansuvarna/.m2/repository/org/testng/testng/7.8.0/testng-7.8.0.jar:/Users/milansuvarna/.m2/repository/com/beust/jcommander/1.82/jcommander-1.82.jar:/Users/milansuvarna/.m2/repository/org/webjars/jquery/3.6.1/jquery-3.6.1.jar:"/>
@@ -30,7 +30,7 @@
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="apple.awt.application.name" value="ForkedBooter"/>
-    <property name="surefire.real.class.path" value="/Users/milansuvarna/Desktop/SeleniumFrameWork/demo/target/surefire/surefirebooter3529912278704700604.jar"/>
+    <property name="surefire.real.class.path" value="/Users/milansuvarna/Desktop/SeleniumFrameWork/demo/target/surefire/surefirebooter8488309136290806540.jar"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="java.runtime.version" value="23+37-2369"/>
@@ -59,7 +59,7 @@
     <property name="socksNonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="java.class.version" value="67.0"/>
   </properties>
-  <testcase name="runScenario[&quot;Login is successfull with valid credentials&quot;, &quot;Login to website&quot;](1)" classname="automation.TestRunner" time="7.27">
+  <testcase name="runScenario[&quot;Login is successfull with valid credentials&quot;, &quot;Login to website&quot;](1)" classname="automation.TestRunner" time="6.026">
     <system-out><![CDATA[
 @Login
 Scenario: Login is successfull with valid credentials &amp#27;[90m# src/test/resource/features/1_Login.feature:4&amp#27;[0m
@@ -73,21 +73,91 @@ user is on login page
     <system-err><![CDATA[SLF4J: No SLF4J providers were found.
 SLF4J: Defaulting to no-operation (NOP) logger implementation
 SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
-1731668886883	geckodriver	INFO	Listening on 127.0.0.1:58207
-1731668886962	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... /[::1]:50056/" "-foreground" "-no-remote" "-profile" "/var/folders/zm/s62rcvgd1p1b_3_qqp_ycx000000gn/T/rust_mozprofilecToPRZ"
+1731691826629	geckodriver	INFO	Listening on 127.0.0.1:56700
+1731691826714	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... /[::1]:60976/" "-foreground" "-no-remote" "-profile" "/var/folders/zm/s62rcvgd1p1b_3_qqp_ycx000000gn/T/rust_mozprofileENPXKV"
 console.warn: services.settings: Ignoring preference override of remote settings server
 console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
-1731668887218	Marionette	INFO	Marionette enabled
+1731691826953	Marionette	INFO	Marionette enabled
 console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
 console.error: "Warning: unrecognized command line flag" "-remote-allow-origins"
-1731668887402	Marionette	INFO	Listening on port 63259
-WebDriver BiDi listening on ws://127.0.0.1:50056
-1731668887473	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1731691827138	Marionette	INFO	Listening on port 64320
+WebDriver BiDi listening on ws://127.0.0.1:60976
+1731691827207	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
 UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
-Nov 15, 2024 4:38:08 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+Nov 15, 2024 11:00:27 PM org.openqa.selenium.remote.ProtocolHandshake createSession
 INFO: Detected upstream dialect: W3C
 console.warn: LoginRecipes: "Falling back to a synchronous message for: https://algoui.com."
-1731668893491	Marionette	INFO	Stopped listening on port 63259
+1731691831961	Marionette	INFO	Stopped listening on port 64320
+]]></system-err>
+  </testcase>
+  <testcase name="runScenario[&quot;Verify fundamental stocks details are shown&quot;, &quot;Check Fundamental stocks&quot;](2)" classname="automation.TestRunner" time="11.378">
+    <system-out><![CDATA[
+@FundamentalPage
+Scenario: Verify fundamental stocks details are shown  &amp#27;[90m# src/test/resource/features/2_CheckFundamentalStocks.feature:10&amp#27;[0m
+user is on login page
+  &amp#27;[32mGiven &amp#27;[0m&amp#27;[32muser is on login page&amp#27;[0m                          &amp#27;[90m# automation.stepdefinitions.LoginStepDefinitions.user_is_on_login_page()&amp#27;[0m
+  &amp#27;[32mWhen &amp#27;[0m&amp#27;[32muser clicks on Login link&amp#27;[0m                       &amp#27;[90m# automation.stepdefinitions.LoginStepDefinitions.user_clicks_on_Login_link()&amp#27;[0m
+  &amp#27;[32mAnd &amp#27;[0m&amp#27;[32muser enters valid credentials&amp#27;[0m                    &amp#27;[90m# automation.stepdefinitions.LoginStepDefinitions.user_enters_valid_credentials()&amp#27;[0m
+  &amp#27;[32mThen &amp#27;[0m&amp#27;[32muser should be logged in successfully&amp#27;[0m           &amp#27;[90m# automation.stepdefinitions.LoginStepDefinitions.user_should_be_logged_in_successfully()&amp#27;[0m
+  &amp#27;[32mWhen &amp#27;[0m&amp#27;[32muser click on Submit button on fundamental page&amp#27;[0m &amp#27;[90m# automation.stepdefinitions.FundamentalStockStepDefinition.user_click_on_Submit_button_on_fundamental_page()&amp#27;[0m
+  &amp#27;[32mAnd &amp#27;[0m&amp#27;[32mclick on Stocks tab&amp#27;[0m                              &amp#27;[90m# automation.stepdefinitions.FundamentalStockStepDefinition.click_on_Stocks_tab()&amp#27;[0m
+  &amp#27;[32mAnd &amp#27;[0m&amp#27;[32mselect two stocks from the list&amp#27;[0m                  &amp#27;[90m# automation.stepdefinitions.FundamentalStockStepDefinition.select_two_stocks_from_the_list()&amp#27;[0m
+  &amp#27;[32mAnd &amp#27;[0m&amp#27;[32mclick on toggle button&amp#27;[0m                           &amp#27;[90m# automation.stepdefinitions.FundamentalStockStepDefinition.click_on_toggle_button()&amp#27;[0m
+  &amp#27;[32mAnd &amp#27;[0m&amp#27;[32mclick on Submit tab&amp#27;[0m                              &amp#27;[90m# automation.stepdefinitions.FundamentalStockStepDefinition.click_on_Submit_tab()&amp#27;[0m
+  &amp#27;[32mThen &amp#27;[0m&amp#27;[32mreport shoud be generated&amp#27;[0m                       &amp#27;[90m# automation.stepdefinitions.FundamentalStockStepDefinition.report_shoud_be_generated()&amp#27;[0m
+  &amp#27;[32mAnd &amp#27;[0m&amp#27;[32mbrowser should be closed&amp#27;[0m                         &amp#27;[90m# automation.stepdefinitions.LoginStepDefinitions.browser_should_be_closed()&amp#27;[0m
+]]></system-out>
+    <system-err><![CDATA[1731691832426	geckodriver	INFO	Listening on 127.0.0.1:64029
+1731691832432	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... /[::1]:59842/" "-foreground" "-no-remote" "-profile" "/var/folders/zm/s62rcvgd1p1b_3_qqp_ycx000000gn/T/rust_mozprofilelUyx2k"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1731691832641	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+console.error: "Warning: unrecognized command line flag" "-remote-allow-origins"
+1731691832817	Marionette	INFO	Listening on port 64416
+WebDriver BiDi listening on ws://127.0.0.1:59842
+1731691832929	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+Nov 15, 2024 11:00:33 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected upstream dialect: W3C
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://algoui.com."
+1731691843359	Marionette	INFO	Stopped listening on port 64416
+]]></system-err>
+  </testcase>
+  <testcase name="runScenario[&quot;verify simulation is saved in in saved algorithm&quot;, &quot;Saved algorithm page&quot;](3)" classname="automation.TestRunner" time="11.02">
+    <system-out><![CDATA[
+@SaveAlgoPage
+Scenario: verify simulation is saved in in saved algorithm &amp#27;[90m# src/test/resource/features/3_SaveAlgorithm.feature:10&amp#27;[0m
+user is on login page
+  &amp#27;[32mGiven &amp#27;[0m&amp#27;[32muser is on login page&amp#27;[0m                              &amp#27;[90m# automation.stepdefinitions.LoginStepDefinitions.user_is_on_login_page()&amp#27;[0m
+  &amp#27;[32mWhen &amp#27;[0m&amp#27;[32muser clicks on Login link&amp#27;[0m                           &amp#27;[90m# automation.stepdefinitions.LoginStepDefinitions.user_clicks_on_Login_link()&amp#27;[0m
+  &amp#27;[32mAnd &amp#27;[0m&amp#27;[32muser enters valid credentials&amp#27;[0m                        &amp#27;[90m# automation.stepdefinitions.LoginStepDefinitions.user_enters_valid_credentials()&amp#27;[0m
+  &amp#27;[32mThen &amp#27;[0m&amp#27;[32muser should be logged in successfully&amp#27;[0m               &amp#27;[90m# automation.stepdefinitions.LoginStepDefinitions.user_should_be_logged_in_successfully()&amp#27;[0m
+  &amp#27;[32mWhen &amp#27;[0m&amp#27;[32muser click on Submit button on fundamental page&amp#27;[0m     &amp#27;[90m# automation.stepdefinitions.FundamentalStockStepDefinition.user_click_on_Submit_button_on_fundamental_page()&amp#27;[0m
+  &amp#27;[32mAnd &amp#27;[0m&amp#27;[32mclick on Stocks tab&amp#27;[0m                                  &amp#27;[90m# automation.stepdefinitions.FundamentalStockStepDefinition.click_on_Stocks_tab()&amp#27;[0m
+  &amp#27;[32mAnd &amp#27;[0m&amp#27;[32mselect two stocks from the list&amp#27;[0m                      &amp#27;[90m# automation.stepdefinitions.FundamentalStockStepDefinition.select_two_stocks_from_the_list()&amp#27;[0m
+  &amp#27;[32mAnd &amp#27;[0m&amp#27;[32mclick on toggle button&amp#27;[0m                               &amp#27;[90m# automation.stepdefinitions.FundamentalStockStepDefinition.click_on_toggle_button()&amp#27;[0m
+  &amp#27;[32mAnd &amp#27;[0m&amp#27;[32mclick on Submit tab&amp#27;[0m                                  &amp#27;[90m# automation.stepdefinitions.FundamentalStockStepDefinition.click_on_Submit_tab()&amp#27;[0m
+  &amp#27;[32mThen &amp#27;[0m&amp#27;[32mreport shoud be generated&amp#27;[0m                           &amp#27;[90m# automation.stepdefinitions.FundamentalStockStepDefinition.report_shoud_be_generated()&amp#27;[0m
+  &amp#27;[32mAnd &amp#27;[0m&amp#27;[32muser click in Save simulation tab&amp#27;[0m                    &amp#27;[90m# automation.stepdefinitions.SaveAlgorithmStepDefinition.user_click_in_Save_simulation_tab()&amp#27;[0m
+  &amp#27;[32mAnd &amp#27;[0m&amp#27;[32muser enter simulation name and click save&amp#27;[0m            &amp#27;[90m# automation.stepdefinitions.SaveAlgorithmStepDefinition.user_enter_simulation_name_and_click_save()&amp#27;[0m
+  &amp#27;[32mAnd &amp#27;[0m&amp#27;[32mbrowser should be closed&amp#27;[0m                             &amp#27;[90m# automation.stepdefinitions.LoginStepDefinitions.browser_should_be_closed()&amp#27;[0m
+]]></system-out>
+    <system-err><![CDATA[1731691843810	geckodriver	INFO	Listening on 127.0.0.1:63567
+1731691843820	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... /[::1]:64251/" "-foreground" "-no-remote" "-profile" "/var/folders/zm/s62rcvgd1p1b_3_qqp_ycx000000gn/T/rust_mozprofileAdjJ1p"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1731691844053	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+console.error: "Warning: unrecognized command line flag" "-remote-allow-origins"
+1731691844232	Marionette	INFO	Listening on port 64558
+WebDriver BiDi listening on ws://127.0.0.1:64251
+1731691844303	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+Nov 15, 2024 11:00:44 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected upstream dialect: W3C
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://algoui.com."
+1731691854368	Marionette	INFO	Stopped listening on port 64558
 ]]></system-err>
   </testcase>
 </testsuite>

@@ -12,9 +12,23 @@ public class PageObj {
     //Algorithm
 
     public static final String fundamentals_tile = "//a[@href='/algorithms/fundamental']//button[@class='algorithm-cards__predominantButton'][normalize-space()='Submit']";
-    public static final String first_name= "//input[@id='first-name']";
-    public static final String last_name= "//input[@id='last-name']";
-    public static final String zip_code= "//input[@id='postal-code']";
-    public static final String continue_checkout= " //input[@id='continue']";
+    public static final String stocks_tab= "//span[normalize-space()='Stocks']";
+    public static final String first_stock= "//span[normalize-space()='IBEX35']";
+    public static final String first_add= "//button[@id='ES0125220311']//*[name()='svg']";
+    public static final String second_add= "//button[@id='ES0132105018']//*[name()='svg']";
+    public static final String toggle= "//input[@aria-label='controlled']";
+    public static final String submit_tab= "//span[normalize-space()='Submit']";
+    public static final String table= "//table[1]";
+
+
+    //Save Simulation
+
+   public static final String save_simulation= "//span[normalize-space()='Save simulation']";
+   public static final String simulation_name ="//input[@id='name']";
+   public static final String save_simulation_btn ="//button[normalize-space()='Save']";
+   public static final String saved_algo_menu ="button[class='nav__link nav__logo tabColor'] i[class='nav__icon'] svg";
+   public static final String saved_algo_test = "//span[normalize-space()='Test']";
+   }
+    
         
-}
+
