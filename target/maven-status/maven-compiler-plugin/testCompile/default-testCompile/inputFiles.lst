@@ -4,4 +4,6 @@
 /Users/milansuvarna/Desktop/SeleniumFrameWork/demo/src/test/java/automation/PageObject/LoginPage.java
 /Users/milansuvarna/Desktop/SeleniumFrameWork/demo/src/test/java/automation/stepdefinitions/AddToCartStepDefinition.java
 /Users/milansuvarna/Desktop/SeleniumFrameWork/demo/src/test/java/automation/TestRunner.java
+/Users/milansuvarna/Desktop/SeleniumFrameWork/demo/src/test/java/automation/Utils/WaitUtils.java
+/Users/milansuvarna/Desktop/SeleniumFrameWork/demo/src/test/java/automation/stepdefinitions/checkoutStepDefinition.java
 /Users/milansuvarna/Desktop/SeleniumFrameWork/demo/src/test/java/automation/stepdefinitions/LoginStepDefinitions.java

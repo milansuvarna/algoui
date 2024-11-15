@@ -1,8 +1,8 @@
 package automation.TestData;
 
 public class TestData {
-    public static final String USERNAME = "standard_user";
-    public static final String PASSWORD = "secret_sauce";
+    public static final String USERNAME = "milan.suvarna@gmail.com";
+    public static final String PASSWORD = "Password@123";
     
     
 }

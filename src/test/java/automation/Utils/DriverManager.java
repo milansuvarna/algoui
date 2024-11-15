@@ -3,10 +3,10 @@ package automation.Utils;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 
-
 public class DriverManager {
     
     public static WebDriver driver;
+    
 
     public static WebDriver getDriver()
     {
@@ -25,5 +25,6 @@ public class DriverManager {
             driver = null;  // Reset the driver to null after quitting
         }
     }
+
 
 }

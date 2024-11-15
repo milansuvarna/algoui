@@ -1,10 +1,17 @@
 @AddToCart
-Feature: Add the product in the cart
+Feature: Check Fundamental stocks
 
-  Scenario: Click on Add products and verify if the product is added in the cart
+  Background:
     Given user is on login page
-    When user enters valid credentials
-    And user click on add product
-    And user go in the cart
-    Then product should be displayed in the cart
+    When user clicks on Login link
+    And user enters valid credentials
+    Then user should be logged in successfully
+
+  Scenario: Verify fundamental stocks details are shown
+    When user click on Submit button on fundamental page
+    And click on Stocks tab
+    And select two stocks from the list
+    And click on toggle button
+    And click on Submit tab
+    Then report shoud be generated
     And browser should be closed
